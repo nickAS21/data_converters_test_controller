@@ -1,0 +1,9 @@
+{
+  "contentType": "JSON",
+  "fPort": 85,
+  "data": "{\"bytes\":\"/7oBChelAAQXigU=\"}",
+  "dataHex": "FFBA010A17A50004178A05",
+  "metadata": {
+    "topic": "smartThermostat/sensorWT201/6791D19604050005/upload"
+  }
+}
